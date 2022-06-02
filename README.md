@@ -1,2 +1,4 @@
-# Git_-Projeto_DIO_BootCampSantander
-Git/GitHub - Livro de Receitas
+# Livro de receitas :man_cook:
+
+
+Olá !  Bem vindo ao meu livro de receitas :wave:
